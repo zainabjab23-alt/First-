@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    color:cadetblue;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: brown;
+    display: block;
+    margin: auto;
+    width: 200px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: cadetblue;
+}
